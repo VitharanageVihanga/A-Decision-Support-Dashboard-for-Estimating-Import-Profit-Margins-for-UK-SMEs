@@ -1,3 +1,5 @@
+A-Decision-Support-Dashboard-for-Estimating-Import-Profit-Margins-for-UK-SMEs
+
 1. Project Overview
 
   This project develops an interactive decision-support dashboard designed to help UK small and medium-sized enterprises (SMEs) estimate the profitability of importing goods under uncertain economic conditions. The  
@@ -31,14 +33,22 @@
   -Visualisation and interaction delivered via Streamlit
 
 5. Repository Structure
-  fyp-project/
-  ├── app.py                    # Main Streamlit application
-  ├── scripts/                  # Core calculation and data processing modules
-  ├── data/
-  │   ├── raw/                  # Original HMRC and ONS datasets
-  │   ├── processed/            # Cleaned and harmonised datasets
-  │   └── output/               # Aggregated and derived data
-  ├── README.md                 # Project documentation
+fyp-import-dashboard/
+│
+├── app.py                     # Main Streamlit application entry point
+│
+├── scripts/                   # Core project logic
+│   ├── data_processing/       # Data cleaning and harmonisation scripts
+│   ├── calculations/          # Cost, margin, and risk computation logic
+│   └── visualisation/         # Chart and dashboard components
+│
+├── data/
+│   ├── raw/                   # Original HMRC and ONS datasets
+│   ├── processed/             # Cleaned and harmonised datasets
+│   └── output/                # Aggregated and derived outputs
+│
+├── README.md                  # Project documentation
+└── requirements.txt           # Python dependencies
 
 6. Running the Application
      Requirements
