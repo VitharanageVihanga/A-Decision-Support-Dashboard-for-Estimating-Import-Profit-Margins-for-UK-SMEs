@@ -33,22 +33,37 @@ A-Decision-Support-Dashboard-for-Estimating-Import-Profit-Margins-for-UK-SMEs
   -Visualisation and interaction delivered via Streamlit
 
 5. Repository Structure
-fyp-import-dashboard/
+A-Decision-Support-Dashboard-for-Estimating-Import-Profit-Margins-for-UK-SMEs/
 │
-├── app.py                     # Main Streamlit application entry point
+├── app.py
+│   └── Main Streamlit application entry point
 │
-├── scripts/                   # Core project logic
-│   ├── data_processing/       # Data cleaning and harmonisation scripts
-│   ├── calculations/          # Cost, margin, and risk computation logic
-│   └── visualisation/         # Chart and dashboard components
+├── scripts/
+│   ├── data_processing/
+│   │   └── Data cleaning and harmonisation scripts
+│   │
+│   ├── calculations/
+│   │   └── Cost, margin, and risk computation logic
+│   │
+│   └── visualisation/
+│       └── Chart and dashboard components
 │
 ├── data/
-│   ├── raw/                   # Original HMRC and ONS datasets
-│   ├── processed/             # Cleaned and harmonised datasets
-│   └── output/                # Aggregated and derived outputs
+│   ├── raw/
+│   │   └── Original HMRC and ONS datasets
+│   │
+│   ├── processed/
+│   │   └── Cleaned and harmonised datasets
+│   │
+│   └── output/
+│       └── Aggregated and derived outputs
 │
-├── README.md                  # Project documentation
-└── requirements.txt           # Python dependencies
+├── requirements.txt
+│   └── Python dependencies
+│
+└── README.md
+    └── Project documentation
+
 
 6. Running the Application
      Requirements
