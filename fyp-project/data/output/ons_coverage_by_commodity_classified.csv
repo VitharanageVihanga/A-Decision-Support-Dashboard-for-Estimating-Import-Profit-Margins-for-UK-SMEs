@@ -1,0 +1,98 @@
+commodity,hs2_chapter,sitc_section,sitc_category,total_years,ons_covered_years,ons_coverage_pct,coverage_class
+1,1,0,0 Food & live animals,7,7,100.0,High coverage
+2,2,0,0 Food & live animals,7,7,100.0,High coverage
+3,3,0,0 Food & live animals,7,7,100.0,High coverage
+4,4,0,0 Food & live animals,7,7,100.0,High coverage
+5,5,0,0 Food & live animals,7,7,100.0,High coverage
+6,6,0,0 Food & live animals,7,7,100.0,High coverage
+7,7,0,0 Food & live animals,7,7,100.0,High coverage
+8,8,0,0 Food & live animals,7,7,100.0,High coverage
+9,9,0,0 Food & live animals,7,7,100.0,High coverage
+10,10,0,0 Food & live animals,7,7,100.0,High coverage
+11,11,0,0 Food & live animals,7,7,100.0,High coverage
+12,12,0,0 Food & live animals,7,7,100.0,High coverage
+13,13,0,0 Food & live animals,7,7,100.0,High coverage
+14,14,0,0 Food & live animals,7,7,100.0,High coverage
+15,15,0,0 Food & live animals,7,7,100.0,High coverage
+16,16,0,0 Food & live animals,7,7,100.0,High coverage
+17,17,0,0 Food & live animals,7,7,100.0,High coverage
+18,18,0,0 Food & live animals,7,7,100.0,High coverage
+19,19,0,0 Food & live animals,7,7,100.0,High coverage
+20,20,0,0 Food & live animals,7,7,100.0,High coverage
+21,21,0,0 Food & live animals,7,7,100.0,High coverage
+22,22,1,1 Beverages & tobacco,7,7,100.0,High coverage
+23,23,0,0 Food & live animals,7,7,100.0,High coverage
+24,24,1,1 Beverages & tobacco,7,7,100.0,High coverage
+25,25,2,2 Crude materials,7,7,100.0,High coverage
+26,26,2,2 Crude materials,7,7,100.0,High coverage
+27,27,3,3 Fuels,7,7,100.0,High coverage
+28,28,5,5 Chemicals,7,7,100.0,High coverage
+29,29,5,5 Chemicals,7,7,100.0,High coverage
+30,30,5,5 Chemicals,7,7,100.0,High coverage
+31,31,5,5 Chemicals,7,7,100.0,High coverage
+32,32,5,5 Chemicals,7,7,100.0,High coverage
+33,33,5,5 Chemicals,7,7,100.0,High coverage
+34,34,5,5 Chemicals,7,7,100.0,High coverage
+35,35,5,5 Chemicals,7,7,100.0,High coverage
+36,36,5,5 Chemicals,7,7,100.0,High coverage
+37,37,5,5 Chemicals,7,7,100.0,High coverage
+38,38,5,5 Chemicals,7,7,100.0,High coverage
+39,39,6,6 Manufactured goods,7,7,100.0,High coverage
+40,40,6,6 Manufactured goods,7,7,100.0,High coverage
+41,41,2,2 Crude materials,7,7,100.0,High coverage
+42,42,8,8 Miscellaneous manufactures,7,7,100.0,High coverage
+43,43,8,8 Miscellaneous manufactures,7,7,100.0,High coverage
+44,44,6,6 Manufactured goods,7,7,100.0,High coverage
+45,45,6,6 Manufactured goods,7,7,100.0,High coverage
+46,46,6,6 Manufactured goods,7,7,100.0,High coverage
+47,47,6,6 Manufactured goods,7,7,100.0,High coverage
+48,48,6,6 Manufactured goods,7,7,100.0,High coverage
+49,49,8,8 Miscellaneous manufactures,7,7,100.0,High coverage
+50,50,6,6 Manufactured goods,7,7,100.0,High coverage
+51,51,6,6 Manufactured goods,7,7,100.0,High coverage
+52,52,6,6 Manufactured goods,7,7,100.0,High coverage
+53,53,6,6 Manufactured goods,7,7,100.0,High coverage
+54,54,6,6 Manufactured goods,7,7,100.0,High coverage
+55,55,6,6 Manufactured goods,7,7,100.0,High coverage
+56,56,6,6 Manufactured goods,7,7,100.0,High coverage
+57,57,6,6 Manufactured goods,7,7,100.0,High coverage
+58,58,6,6 Manufactured goods,7,7,100.0,High coverage
+59,59,6,6 Manufactured goods,7,7,100.0,High coverage
+60,60,6,6 Manufactured goods,7,7,100.0,High coverage
+61,61,8,8 Miscellaneous manufactures,7,7,100.0,High coverage
+62,62,8,8 Miscellaneous manufactures,7,7,100.0,High coverage
+63,63,8,8 Miscellaneous manufactures,7,7,100.0,High coverage
+64,64,8,8 Miscellaneous manufactures,7,7,100.0,High coverage
+65,65,8,8 Miscellaneous manufactures,7,7,100.0,High coverage
+66,66,6,6 Manufactured goods,7,7,100.0,High coverage
+67,67,6,6 Manufactured goods,7,7,100.0,High coverage
+68,68,6,6 Manufactured goods,7,7,100.0,High coverage
+69,69,6,6 Manufactured goods,7,7,100.0,High coverage
+70,70,6,6 Manufactured goods,7,7,100.0,High coverage
+71,71,8,8 Miscellaneous manufactures,7,7,100.0,High coverage
+72,72,6,6 Manufactured goods,7,7,100.0,High coverage
+73,73,6,6 Manufactured goods,7,7,100.0,High coverage
+74,74,6,6 Manufactured goods,7,7,100.0,High coverage
+75,75,6,6 Manufactured goods,7,7,100.0,High coverage
+76,76,6,6 Manufactured goods,7,7,100.0,High coverage
+78,78,6,6 Manufactured goods,7,7,100.0,High coverage
+79,79,6,6 Manufactured goods,7,7,100.0,High coverage
+80,80,6,6 Manufactured goods,7,7,100.0,High coverage
+81,81,6,6 Manufactured goods,7,7,100.0,High coverage
+82,82,6,6 Manufactured goods,7,7,100.0,High coverage
+83,83,6,6 Manufactured goods,7,7,100.0,High coverage
+84,84,7,7 Machinery & transport equipment,7,7,100.0,High coverage
+85,85,7,7 Machinery & transport equipment,7,7,100.0,High coverage
+86,86,7,7 Machinery & transport equipment,7,7,100.0,High coverage
+87,87,7,7 Machinery & transport equipment,7,7,100.0,High coverage
+88,88,7,7 Machinery & transport equipment,7,7,100.0,High coverage
+89,89,7,7 Machinery & transport equipment,7,7,100.0,High coverage
+90,90,8,8 Miscellaneous manufactures,7,7,100.0,High coverage
+91,91,8,8 Miscellaneous manufactures,7,7,100.0,High coverage
+92,92,8,8 Miscellaneous manufactures,7,7,100.0,High coverage
+93,93,8,8 Miscellaneous manufactures,7,7,100.0,High coverage
+94,94,8,8 Miscellaneous manufactures,7,7,100.0,High coverage
+95,95,8,8 Miscellaneous manufactures,7,7,100.0,High coverage
+96,96,8,8 Miscellaneous manufactures,7,7,100.0,High coverage
+97,97,8,8 Miscellaneous manufactures,7,7,100.0,High coverage
+99,99,9,9 Other commodities,7,7,100.0,High coverage
